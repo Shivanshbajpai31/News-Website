@@ -1,1 +1,1 @@
-Here in screenshot I have shared the screenshot of the Indian times news website
+The full preview of the website: http://127.0.0.1:3000/index.html
